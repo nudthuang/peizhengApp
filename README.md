@@ -1,8 +1,8 @@
 >前言：这是跟着B站视频学的uniApp vue3陪诊小程序项目，有真实下单、微信扫码支付、封装时间组件、手机号验证码登录等核心功能。
 <br>
 B站视频源地址：
-https://www.bilibili.com/video/BV1jc411z7qG/?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click&vd_source=ac6f954f925d420ce11cce0f0cdd6566
-<br>
+[https://www.bilibili.com/video/BV1jc411z7qG/?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click&vd_source=ac6f954f925d420ce11cce0f0cdd6566
+](https://www.bilibili.com/video/BV1mb421H7k4?spm_id_from=333.788.videopod.episodes)<br>
 <br>
 接口地址：
 https://apifox.com/apidoc/shared-50a14ca5-c1d1-47ca-99f0-315ecfa52706/api-130967234
